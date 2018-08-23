@@ -1,0 +1,16 @@
+.body{
+    margin-top: 100px;
+}
+
+.container{
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background-color: #FAFAFA;
+}
+
+.background{
+    margin: 0px;
+    background-image: url("../media/images/chocolate.jpg");
+    width: 100vw;
+    height: 100vh;
+}
